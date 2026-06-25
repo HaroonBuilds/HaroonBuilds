@@ -1,6 +1,4 @@
-Yahan bilkul natural aur genuine Pakistani English style mein README hai, bina faltu symbols, emojis ya bohat zyada extra decoration ke. Yeh bilkul waisa lagega jaise aap ne khud baith kar dil se likha hai:
 
-```markdown
 # Muhammad Haroon
 
 I am a Software Engineering Student. For me, software engineering is not just about learning a long list of technologies or copy-pasting code from tutorials. I am genuinely passionate about exploring how computers actually work under the hood and how real, large-scale software is built from scratch. 
